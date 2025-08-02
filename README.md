@@ -22,8 +22,8 @@ I'm a passionate **frontend web developer** focused on building clean, interacti
 ---
 
 ### 📫 Let’s Connect:
-- Portfolio: [https://Foxgee212.github.io/portfolio](https://Foxgee212.github.io/portfolio)
-- LinkedIn: [Your LinkedIn URL here]
+- Portfolio: [https://github.com/Foxgee212/Foxgee212](https://github.com/Foxgee212/Foxgee212)
+- Portfolio: [https://www.linkedin.com/in/fox-abdullahi-16b9322b6/](https://www.linkedin.com/in/fox-abdullahi-16b9322b6/)
 
 
 <!--
