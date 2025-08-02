@@ -15,7 +15,7 @@ form.onsubmit = async (e) => {
   const city = input.value.trim();
   if (!city) return;
 
-  const API_KEY = "YOUR_API_KEY"; // Replace this
+  const API_KEY = "c93e6fddbe57c0dc595e59cca16f23e7"; // Replace this
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`;
 
   try {
