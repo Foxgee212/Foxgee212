@@ -12,8 +12,7 @@ I'm a passionate **frontend web developer** focused on building clean, interacti
 - ✅ [Todo List App](https://github.com/Foxgee212/Foxgee212/tree/main/Foxgee212/projects/todo-app)
 - 🌦 [Weather App](https://github.com/Foxgee212/Foxgee212/tree/main/Foxgee212/projects/weather-app)
 - 🎬 [Movie Search App](https://github.com/Foxgee212/Foxgee212/tree/main/Foxgee212/projects/movie-search-app)
--   [BookMark Manager App]
-  (https://github.com/Foxgee212/Foxgee212/tree/main/Foxgee212/projects/bookmark-manager)
+- 🎬 [Bookmark Manager](https://github.com/Foxgee212/Foxgee212/tree/main/Foxgee212/projects/bookmark-manager)
 
 ### 🚀 Goals:
 - Master **React & Firebase**
