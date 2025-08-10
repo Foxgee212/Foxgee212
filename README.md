@@ -7,15 +7,17 @@ I'm a passionate **frontend web developer** focused on building clean, interacti
 - Responsive Design, Dark Mode, LocalStorage
 - REST APIs (OpenWeather, OMDb)
 - Git & GitHub
+- Reacts components
 
 ### 📂 Projects:
-- ✅ [Todo List App]()
-- 🌦 [Weather App]()
-- 🎬 [Movie Search App]()
-- 📑 [Bookmark Manager]()
+- ✅ [Todo List App](https://foxgee212.github.io/Foxgee212/todo-app/)
+- 🌦 [Weather App](https://foxgee212.github.io/Foxgee212/weather-app/
+)
+- 🎬 [Movie Search App](https://foxgee212.github.io/Foxgee212/movie-search-app/)
+- 📑 [Bookmark Manager](https://foxgee212.github.io/Foxgee212/bookmark-manager/)
 
 ### 🚀 Goals:
-- Master **React & Firebase**
+- Master **Firebase**
 - Contribute to Open Source
 - Get a remote frontend/web dev role 💻
 
