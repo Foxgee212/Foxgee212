@@ -9,10 +9,10 @@ I'm a passionate **frontend web developer** focused on building clean, interacti
 - Git & GitHub
 
 ### 📂 Projects:
-- ✅ [Todo List App](https://github.com/Foxgee212/Foxgee212/tree/main/Foxgee212/projects/todo-app)
-- 🌦 [Weather App](https://github.com/Foxgee212/Foxgee212/tree/main/Foxgee212/projects/weather-app)
-- 🎬 [Movie Search App](https://github.com/Foxgee212/Foxgee212/tree/main/Foxgee212/projects/movie-search-app)
-- 📑 [Bookmark Manager](https://github.com/Foxgee212/Foxgee212/tree/main/Foxgee212/projects/bookmark-manager)
+- ✅ [Todo List App]()
+- 🌦 [Weather App]()
+- 🎬 [Movie Search App]()
+- 📑 [Bookmark Manager]()
 
 ### 🚀 Goals:
 - Master **React & Firebase**
