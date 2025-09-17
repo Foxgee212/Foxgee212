@@ -8,8 +8,10 @@ I'm a passionate **frontend web developer** focused on building clean, interacti
 - REST APIs (OpenWeather, OMDb)
 - Git & GitHub
 - Reacts components
+- Single-Page-Application(SPA)
 
 ### 📂 Projects:
+- 🛒 [MrShrekStore]()
 - ✅ [Todo List App](https://foxgee212.github.io/Foxgee212/todo-app/)
 - 🌦 [Weather App](https://foxgee212.github.io/Foxgee212/weather-app/
 )
@@ -17,7 +19,7 @@ I'm a passionate **frontend web developer** focused on building clean, interacti
 - 📑 [Bookmark Manager](https://foxgee212.github.io/Foxgee212/bookmark-manager/)
 
 ### 🚀 Goals:
-- Master **Firebase**
+- Master Backend Integration
 - Contribute to Open Source
 - Get a remote frontend/web dev role 💻
 
