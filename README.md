@@ -11,7 +11,7 @@ I'm a passionate **frontend web developer** focused on building clean, interacti
 - Single-Page-Application(SPA)
 
 ### 📂 Projects:
-- 🛒 [MrShrekStore]()
+- 🛒 [MrShrekStore](https://foxgee212.github.io/MrShrek-Store/)
 - ✅ [Todo List App](https://foxgee212.github.io/Foxgee212/todo-app/)
 - 🌦 [Weather App](https://foxgee212.github.io/Foxgee212/weather-app/
 )
