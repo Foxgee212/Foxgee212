@@ -1,27 +1,33 @@
 # 👋 Hi, I'm Ibrahim (Foxgee212)
 
-I'm a passionate **frontend web developer** focused on building clean, interactive, and user-friendly websites and web apps.
+I'm a passionate **fullStack web developer** focused on building clean, interactive, and user-friendly websites and web apps.
 
 ### 🛠️ Skills:
 - HTML5, CSS3, TailwindCSS, JavaScript (ES6+)
 - Responsive Design, Dark Mode, LocalStorage
 - REST APIs (OpenWeather, OMDb)
 - Git & GitHub
-- Reacts components
+- Reacts js
+- Nodejs
+- Express
+- MondodB
+- Progressive Web Application(pwa)
 - Single-Page-Application(SPA)
 
 ### 📂 Projects:
 - 🛒 [MrShrekStore](https://foxgee212.github.io/MrShrek-Store/)
 - ✅ [Todo List App](https://foxgee212.github.io/Foxgee212/todo-app/)
-- 🌦 [Weather App](https://foxgee212.github.io/Foxgee212/weather-app/
-)
+- 🌦 [Weather App](https://foxgee212.github.io/Foxgee212/weather-app/)
 - 🎬 [Movie Search App](https://foxgee212.github.io/Foxgee212/movie-search-app/)
 - 📑 [Bookmark Manager](https://foxgee212.github.io/Foxgee212/bookmark-manager/)
+- 📲 [Phone Store](https://foxgee212.github.io/MrShrek-Store/)
+- 🏠 [Naijahome](www.naijahome.ng)
+
 
 ### 🚀 Goals:
-- Master Backend Integration
+- Build Other project thats is gonna help other human being and make the world a better place
 - Contribute to Open Source
-- Get a remote frontend/web dev role 💻
+- Get a remote fullstack dev role 💻
 
 ---
 
